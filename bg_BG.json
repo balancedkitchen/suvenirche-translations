@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-22.1",
+  "version": "2026-09-22.2",
   "domains": {
     "suvenirche-cj-routing": {
       "The postcode “%1$s” does not match this address. The confirmed postcode is “%2$s”.": "Пощенският код „%1$s“ не съответства на този адрес. Потвърденият код е „%2$s“.",
@@ -37,7 +37,14 @@
       "No valid free-shipping method is selected for shipping-included products.": "Не е избрана валидна безплатна доставка за продуктите с включена доставка.",
       "We could not confirm standard shipping to this address. Check the address and try again.": "Не успяхме да потвърдим стандартната доставка до този адрес. Проверете адреса и опитайте отново.",
       "No valid standard-shipping method is selected for paid-shipping products.": "Не е избрана валидна стандартна доставка за продуктите с платена доставка.",
-      "The standard shipping price has changed. Please wait for the order to refresh and confirm again.": "Цената на стандартната доставка се промени. Моля, изчакайте обновяването на поръчката и потвърдете отново."
+      "The standard shipping price has changed. Please wait for the order to refresh and confirm again.": "Цената на стандартната доставка се промени. Моля, изчакайте обновяването на поръчката и потвърдете отново.",
+      "You do not have permission to manage CJ pricing.": "Нямате права за управление на CJ ценообразуването.",
+      "You do not have permission to manage address diagnostics.": "Нямате права за управление на диагностиката на адреси.",
+      "You do not have permission to run address diagnostics.": "Нямате права за стартиране на диагностика на адреси.",
+      "Suvenirche CJ Global Pricing": "Suvenirche CJ Глобално ценообразуване",
+      "Reindex CJ freight price": "Преиндексирай CJ транспортната цена",
+      "Assign shipping class “shipping-included” to enable global freight pricing.": "Задайте клас за доставка „shipping-included“, за да включите глобалното ценообразуване на доставката.",
+      "You do not have permission to reindex CJ pricing.": "Нямате права за преиндексиране на CJ ценообразуването."
     },
     "commerce-address-registry": {
       "Address is incomplete.": "Адресът е непълен.",
@@ -57,7 +64,8 @@
       "Not configured": "Не е конфигуриран",
       "REST endpoint for future stores": "REST endpoint за бъдещи магазини",
       "External registry token": "Външен token за регистъра",
-      "Keep this token private. Future stores can use it server-to-server in the X-Address-Registry-Key header.": "Пазете този token поверителен. Бъдещи магазини могат да го използват server-to-server в header-а X-Address-Registry-Key."
+      "Keep this token private. Future stores can use it server-to-server in the X-Address-Registry-Key header.": "Пазете този token поверителен. Бъдещи магазини могат да го използват server-to-server в header-а X-Address-Registry-Key.",
+      "Refresh interval (days)": "Интервал за опресняване (дни)"
     }
   }
 }
