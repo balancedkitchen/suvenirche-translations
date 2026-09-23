@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-23.1",
+  "version": "2026-09-23.2",
   "domains": {
     "suvenirche-cj-routing": {
       "The postcode “%1$s” does not match this address. The confirmed postcode is “%2$s”.": "Пощенският код „%1$s“ не съответства на този адрес. Потвърденият код е „%2$s“.",
@@ -48,7 +48,16 @@
       "Free shipping — preliminary": "Безплатна доставка — предварително",
       "estimated transit %s business days": "ориентировъчен транзит %s работни дни",
       " (preliminary; confirmed at checkout)": " (предварително; потвърждава се при поръчка)",
-      "Preliminary estimate only. We will validate the full address, live shipping availability and final delivery terms at checkout.": "Предварителна информация. Пълният адрес, наличната доставка и окончателните условия ще бъдат проверени при приключване на поръчката."
+      "Preliminary estimate only. We will validate the full address, live shipping availability and final delivery terms at checkout.": "Предварителна информация. Пълният адрес, наличната доставка и окончателните условия ще бъдат проверени при приключване на поръчката.",
+      "This address confirmation is no longer valid. Check the address and try again.": "Това потвърждение на адрес вече не е валидно. Проверете адреса и опитайте отново.",
+      "Address confirmed for this checkout. You can place the order again.": "Адресът е потвърден за тази поръчка. Можете да изпратите поръчката отново.",
+      "Check the shipping address": "Проверете адреса за доставка",
+      "The address is correct — use it for this order": "Адресът е правилен — използвай го за тази поръчка",
+      "Address confirmed for this checkout. Place the order again to continue.": "Адресът е потвърден за тази поръчка. Натиснете отново бутона за поръчка, за да продължите.",
+      "We could not update the address verification. Please try again.": "Не успяхме да обновим проверката на адреса. Моля, опитайте отново.",
+      "The full shipping address could not be verified. Check country, city, postcode, street and number, then try again.": "Пълният адрес за доставка не можа да бъде проверен. Проверете държавата, града, пощенския код, улицата и номера и опитайте отново.",
+      "Correct the address before placing the order.": "Коригирайте адреса преди да направите поръчката.",
+      "If you have checked it carefully and it is correct, you can confirm it for this checkout.": "Ако сте го проверили внимателно и е правилен, можете да го потвърдите за тази поръчка."
     },
     "commerce-address-registry": {
       "Address is incomplete.": "Адресът е непълен.",
