@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-23.2",
+  "version": "2026-09-23.3",
   "domains": {
     "suvenirche-cj-routing": {
       "The postcode “%1$s” does not match this address. The confirmed postcode is “%2$s”.": "Пощенският код „%1$s“ не съответства на този адрес. Потвърденият код е „%2$s“.",
@@ -57,7 +57,8 @@
       "We could not update the address verification. Please try again.": "Не успяхме да обновим проверката на адреса. Моля, опитайте отново.",
       "The full shipping address could not be verified. Check country, city, postcode, street and number, then try again.": "Пълният адрес за доставка не можа да бъде проверен. Проверете държавата, града, пощенския код, улицата и номера и опитайте отново.",
       "Correct the address before placing the order.": "Коригирайте адреса преди да направите поръчката.",
-      "If you have checked it carefully and it is correct, you can confirm it for this checkout.": "Ако сте го проверили внимателно и е правилен, можете да го потвърдите за тази поръчка."
+      "If you have checked it carefully and it is correct, you can confirm it for this checkout.": "Ако сте го проверили внимателно и е правилен, можете да го потвърдите за тази поръчка.",
+      "Confirm this address": "Потвърди този адрес"
     },
     "commerce-address-registry": {
       "Address is incomplete.": "Адресът е непълен.",
