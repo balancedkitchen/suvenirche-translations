@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-17.1",
+  "version": "2026-10-17.2",
   "domains": {
     "suvenirche-cj-routing": {
       "The postcode “%1$s” does not match this address. The confirmed postcode is “%2$s”.": "Пощенският код „%1$s“ не съответства на този адрес. Потвърденият код е „%2$s“.",
@@ -112,7 +112,8 @@
       "Delivery pricing for this variation is being updated. Please try again shortly.": "Цената за доставка на тази вариация се обновява. Моля, опитайте отново след малко.",
       "No standard CJ delivery method for this variation at the selected address.": "Няма стандартен CJ метод за доставка на тази вариация до избрания адрес.",
       "No standard delivery method for: %s. Remove these item(s) or change the address.": "Няма стандартен метод за доставка за: %s. Премахнете тези артикули или променете адреса.",
-      "These paid-shipping items cannot currently be delivered together. Please split the order or change the address.": "В момента тези артикули с платена доставка не могат да бъдат изпратени заедно. Разделете поръчката или променете адреса."
+      "These paid-shipping items cannot currently be delivered together. Please split the order or change the address.": "В момента тези артикули с платена доставка не могат да бъдат изпратени заедно. Разделете поръчката или променете адреса.",
+      " (preliminary; confirmed after completing the address)": " (предварителна; потвърждава се след попълване на адреса)"
     },
     "commerce-address-registry": {
       "Address is incomplete.": "Адресът е непълен.",
