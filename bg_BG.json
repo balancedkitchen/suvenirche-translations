@@ -1,7 +1,10 @@
 {
-  "version": "2026-10-17.2",
+  "version": "2026-10-18.1",
   "domains": {
     "suvenirche-cj-routing": {
+      "The product price changed again. Please check the cart once more.": "Цената на продукта отново се промени. Моля, проверете количката още веднъж.",
+      "The price decision could not be confirmed. Please refresh the cart.": "Изборът за новата цена не можа да бъде потвърден. Моля, обновете количката.",
+      "Current supplier pricing could not be confirmed for every item. The order will be checked again before payment.": "Актуалните доставни цени не могат да бъдат потвърдени за всички артикули. Поръчката ще бъде проверена отново преди плащане.",
       "The postcode “%1$s” does not match this address. The confirmed postcode is “%2$s”.": "Пощенският код „%1$s“ не съответства на този адрес. Потвърденият код е „%2$s“.",
       "This address was found in the city “%2$s”, not “%1$s”.": "Този адрес е намерен в град „%2$s“, а не в „%1$s“.",
       "This address was found in “%2$s”, not in the selected country “%1$s”.": "Този адрес е намерен в държава „%2$s“, а не в избраната „%1$s“.",
