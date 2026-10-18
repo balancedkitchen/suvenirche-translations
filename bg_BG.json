@@ -1,7 +1,8 @@
 {
-  "version": "2026-10-18.1",
+  "version": "2026-10-18.2",
   "domains": {
     "suvenirche-cj-routing": {
+      "The current paid-shipping product price is unavailable.": "Актуалната цена на артикула с платена доставка не е налична.",
       "The product price changed again. Please check the cart once more.": "Цената на продукта отново се промени. Моля, проверете количката още веднъж.",
       "The price decision could not be confirmed. Please refresh the cart.": "Изборът за новата цена не можа да бъде потвърден. Моля, обновете количката.",
       "Current supplier pricing could not be confirmed for every item. The order will be checked again before payment.": "Актуалните доставни цени не могат да бъдат потвърдени за всички артикули. Поръчката ще бъде проверена отново преди плащане.",
