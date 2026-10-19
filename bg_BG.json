@@ -1,7 +1,8 @@
 {
-  "version": "2026-10-18.2",
+  "version": "2026-10-19.1",
   "domains": {
     "suvenirche-cj-routing": {
+      "Delivery data for some variations could not be verified. Please retry after the index is available.": "Данните за доставка на някои вариации не могат да бъдат потвърдени. Опитайте отново, след като индексът стане наличен.",
       "The current paid-shipping product price is unavailable.": "Актуалната цена на артикула с платена доставка не е налична.",
       "The product price changed again. Please check the cart once more.": "Цената на продукта отново се промени. Моля, проверете количката още веднъж.",
       "The price decision could not be confirmed. Please refresh the cart.": "Изборът за новата цена не можа да бъде потвърден. Моля, обновете количката.",
