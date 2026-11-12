@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19.1",
+  "version": "2026-11-12.1",
   "domains": {
     "suvenirche-cj-routing": {
       "Delivery data for some variations could not be verified. Please retry after the index is available.": "Данните за доставка на някои вариации не могат да бъдат потвърдени. Опитайте отново, след като индексът стане наличен.",
@@ -118,7 +118,13 @@
       "No standard CJ delivery method for this variation at the selected address.": "Няма стандартен CJ метод за доставка на тази вариация до избрания адрес.",
       "No standard delivery method for: %s. Remove these item(s) or change the address.": "Няма стандартен метод за доставка за: %s. Премахнете тези артикули или променете адреса.",
       "These paid-shipping items cannot currently be delivered together. Please split the order or change the address.": "В момента тези артикули с платена доставка не могат да бъдат изпратени заедно. Разделете поръчката или променете адреса.",
-      " (preliminary; confirmed after completing the address)": " (предварителна; потвърждава се след попълване на адреса)"
+      " (preliminary; confirmed after completing the address)": " (предварителна; потвърждава се след попълване на адреса)",
+      "Temporary verification problem": "Временен проблем с проверката",
+      "Try again now": "Провери отново",
+      "Later": "По-късно",
+      "Return to shop": "Към магазина",
+      "The service is temporarily unavailable. Your cart is saved. Please try later.": "Услугата временно не е достъпна. Продуктите остават в количката. Моля, опитайте отново по-късно.",
+      "Some CJ prices or delivery details could not be verified. Try again now or later; your cart is preserved.": "Не успяхме да потвърдим доставката за един или повече продукти. Можете да опитате отново сега или по-късно. Продуктите остават в количката."
     },
     "commerce-address-registry": {
       "Address is incomplete.": "Адресът е непълен.",
