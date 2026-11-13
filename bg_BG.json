@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-12.1",
+  "version": "2026-11-13.1",
   "domains": {
     "suvenirche-cj-routing": {
       "Delivery data for some variations could not be verified. Please retry after the index is available.": "Данните за доставка на някои вариации не могат да бъдат потвърдени. Опитайте отново, след като индексът стане наличен.",
@@ -124,7 +124,20 @@
       "Later": "По-късно",
       "Return to shop": "Към магазина",
       "The service is temporarily unavailable. Your cart is saved. Please try later.": "Услугата временно не е достъпна. Продуктите остават в количката. Моля, опитайте отново по-късно.",
-      "Some CJ prices or delivery details could not be verified. Try again now or later; your cart is preserved.": "Не успяхме да потвърдим доставката за един или повече продукти. Можете да опитате отново сега или по-късно. Продуктите остават в количката."
+      "Some CJ prices or delivery details could not be verified. Try again now or later; your cart is preserved.": "Не успяхме да потвърдим доставката за един или повече продукти. Можете да опитате отново сега или по-късно. Продуктите остават в количката.",
+      "Complete and verify the physical shipping address first.": "Първо попълнете и потвърдете адреса за доставка.",
+      "The shipping address has not been verified.": "Адресът за доставка не е потвърден.",
+      "This price confirmation is not linked to the current checkout. Please confirm the order again.": "Това потвърждение на цената не се отнася за текущата поръчка. Моля, потвърдете поръчката отново.",
+      "Verify the shipping address before accepting a new price.": "Потвърдете адреса за доставка, преди да приемете новата цена.",
+      "This cart variation has changed. Remove it and add it again before confirming the price.": "Вариацията на този артикул се е променила. Премахнете го от количката и го добавете отново, преди да потвърдите цената.",
+      "The accepted price could not be saved. Please retry.": "Приетата цена не можа да бъде запазена. Моля, опитайте отново.",
+      "CJ could not confirm the current price or delivery for this variation. Please retry.": "CJ не успя да потвърди актуалната цена или доставката за тази вариация. Моля, опитайте отново.",
+      "The current supplier price cannot be validated. Please try later.": "Актуалната цена от доставчика не може да бъде проверена. Опитайте по-късно.",
+      "CJ is temporarily unavailable. Please retry now or return later.": "CJ временно не е достъпен. Опитайте отново сега или по-късно.",
+      "CJ could not verify some variations. Retry or remove only the affected items.": "CJ не успя да провери някои вариации. Опитайте отново или премахнете само засегнатите артикули.",
+      "Another supplier verification is in progress. Please retry this order.": "В момента се извършва друга проверка при доставчика. Моля, опитайте отново с тази поръчка.",
+      "The product variation changed while it was in your cart. Remove the affected item and add it again.": "Вариацията на продукта се промени, докато е била в количката. Премахнете засегнатия артикул и го добавете отново.",
+      "No eligible CJ delivery method or price limit for this variation.": "За тази вариация няма допустим метод за доставка от CJ или цената на доставката надвишава зададения лимит."
     },
     "commerce-address-registry": {
       "Address is incomplete.": "Адресът е непълен.",
